@@ -13,7 +13,7 @@ I’m passionate about building **real-world applications** that combine problem
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Languages:** Python, C, Java, C++  
 **Web:** HTML, CSS, JavaScript, Flask  
 **Database:** MySQL, SQLite  
