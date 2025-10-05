@@ -7,7 +7,7 @@ I’m passionate about building **real-world applications** that combine problem
 ---
 
 ##  What I Do
--  Full Stack Web Development (Python, Flask, HTML, CSS, JavaScript, MySQL)  
+-  Full Stack Web Development (Python, Flask, HTML, CSS, JavaScript, MySQL,React)  
 -  Data Analytics (Power BI, Excel, SQL)  
 -  Real-world projects that solve problems  
 
@@ -15,25 +15,27 @@ I’m passionate about building **real-world applications** that combine problem
 
 ##  Tech Stack
 **Languages:** Python, C, Java, C++  
-**Web:** HTML, CSS, JavaScript, Flask  
+**Web:** HTML, CSS, JavaScript, Flask,React  
 **Database:** MySQL, SQLite  
 **Tools:** Git, GitHub, Power BI, Excel  
 
 ---
 
 ##  Featured Projects
-- [Job Application Tracker](https://job-application-tracker-a219.onrender.com/) — Track and manage job applications  
-- Exam Portal — Image-based online examination system  
-- Event Registration Website — Responsive system for student events  
-
+- [Job Application Tracker](https://job-application-tracker-a219.onrender.com/) — Track and manage job applications(Python/Flask, JavaScript, MySQL)  
+- **EAMCET Exam Portal** - Online examination system with image-based questions (PHP, JavaScript, MySQL)  
+- **Student Event Registration** - Responsive registration website (HTML, CSS, JavaScript, PHP, MySQL)
+- [Online Quiz app](https://mohammadsaniya5.github.io/Online-Quiz-App/) - Built a responsive quiz application supporting  multiple subjects(HTML, CSS and javascript)
 *(More on my [Repositories](https://github.com/MohammadSaniya5?tab=repositories))*  
 
 ---
 
 ##  Currently Working On
-- 🔹 Mastering Data Structures & Algorithms in C++  
-- 🔹 Improving portfolio projects with deployment & user authentication  
-- 🔹 Applying for internships to gain real-world experience  
+- Mastering Data Structures & Algorithms in C++  
+- Improving portfolio projects with deployment & user authentication  
+- Sharpening my React & Node.js skills  
+- Building full-stack projects with modern frameworks
+- Seeking intensive internship to level up my coding skills
 
 ---
 
@@ -45,18 +47,4 @@ I’m passionate about building **real-world applications** that combine problem
 ---
 From [MohammadSaniya5](https://github.com/MohammadSaniya5)
 
-
-<!--
-**MohammadSaniya5/MohammadSaniya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
