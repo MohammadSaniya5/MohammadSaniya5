@@ -26,7 +26,7 @@ I’m passionate about building **real-world applications** that combine problem
 - **EAMCET Exam Portal** - Online examination system with image-based questions (PHP, JavaScript, MySQL)  
 - **Student Event Registration** - Responsive registration website (HTML, CSS, JavaScript, PHP, MySQL)
 - [Online Quiz app](https://mohammadsaniya5.github.io/Online-Quiz-App/) - Built a responsive quiz application supporting  multiple subjects(HTML, CSS and javascript)
-*(More on my [Repositories](https://github.com/MohammadSaniya5?tab=repositories))*  
+- *(More on my [Repositories](https://github.com/MohammadSaniya5?tab=repositories))*  
 
 ---
 
@@ -40,7 +40,7 @@ I’m passionate about building **real-world applications** that combine problem
 ---
 
 ##  Let's Connect
--  [LinkedIn](https://www.linkedin.com/in/mohammad-saniya-859b31365/))   
+-  [LinkedIn](https://www.linkedin.com/in/mohammad-saniya-859b31365/) 
 -  Email: *(saniyamohammad0567@gmail.com)*  
 -  [GitHub](https://github.com/MohammadSaniya5)  
 
