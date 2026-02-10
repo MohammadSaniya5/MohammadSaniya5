@@ -1,50 +1,86 @@
-# 👋 Hi, I'm Mohammad Saniya  
+#  Hi, I'm Mohammad Saniya
 
- **B.Tech CSE Student | Full-Stack Web Developer | Data Analytics Enthusiast**  
+ B.Tech CSE @ Vignan Institute of Technology and Science (2023–2027) (CGPA:9.3)  
+ Full-Stack Developer | Data Analytics Enthusiast  
+ Hyderabad, India  
 
-I’m passionate about building **real-world applications** that combine problem-solving with clean, user-friendly designs. Currently exploring **full-stack development** with Python and diving deeper into **data analytics** tools.  
-
----
-
-##  What I Do
--  Full Stack Web Development (Python, Flask, HTML, CSS, JavaScript, MySQL,React)  
--  Data Analytics (Power BI, Excel, SQL)  
--  Real-world projects that solve problems  
+I’m a Computer Science undergraduate with hands-on experience in full-stack development and data analytics through IBM SkillsBuild and NSDC programs.  
+I enjoy building scalable backend systems, clean user interfaces, and data-driven products using React, Python, SQL, and REST APIs.
 
 ---
 
-##  Tech Stack
-**Languages:** Python, C, Java, C++  
-**Web:** HTML, CSS, JavaScript, Flask,React  
-**Database:** MySQL, SQLite  
-**Tools:** Git, GitHub, Power BI, Excel  
+##  About Me
+- Full-stack developer with internship experience at IBM SkillsBuild & NSDC  
+- Interested in backend systems, analytics & startups  
+- Strong foundation in DSA and core CS subjects  
+- Passionate about hackathons, UI/UX & data visualization  
 
 ---
 
-##  Featured Projects
-- [Job Application Tracker](https://job-application-tracker-a219.onrender.com/) — Track and manage job applications(Python/Flask, JavaScript, MySQL)  
-- **EAMCET Exam Portal** - Online examination system with image-based questions (PHP, JavaScript, MySQL)  
-- **Student Event Registration** - Responsive registration website (HTML, CSS, JavaScript, PHP, MySQL)
-- [Online Quiz app](https://mohammadsaniya5.github.io/Online-Quiz-App/) - Built a responsive quiz application supporting  multiple subjects(HTML, CSS and javascript)
-- *(More on my [Repositories](https://github.com/MohammadSaniya5?tab=repositories))*  
+##  Experience
+
+### Frontend Web Development Intern — IBM SkillsBuild (Remote)
+- Built responsive interfaces using HTML, CSS & JavaScript  
+- Improved accessibility and UI consistency  
+- Worked in Agile sprints with mentor feedback and code reviews  
+
+### Power BI Virtual Intern — YuvaIntern + NSDC
+- Designed dashboards using DAX, KPIs, slicers & filters  
+- Transformed raw datasets into business insights  
+- Supported reporting for operational decisions  
 
 ---
 
-##  Currently Working On
-- Mastering Data Structures & Algorithms in C++  
-- Improving portfolio projects with deployment & user authentication  
-- Sharpening my React & Node.js skills  
-- Building full-stack projects with modern frameworks
-- Seeking intensive internship to level up my coding skills
+##  Projects
+
+### 🔹 AI Skill Intelligence Platform (React, Django, OAuth, REST)
+- Full-stack assessment system for career recommendations  
+- OAuth authentication & personalized learning paths  
+
+### 🔹 Online EAMCET Examination Portal (PHP, MySQL, JavaScript)
+- Supported 500+ test attempts with randomization & timers  
+- Admin dashboards & malpractice detection  
+
+### 🔹 Online Quiz Application (HTML, CSS, JavaScript)
+- Responsive UI with real-time scoring  
+- Deployed during IBM SkillsBuild internship  
 
 ---
 
-##  Let's Connect
--  [LinkedIn](https://www.linkedin.com/in/mohammad-saniya-859b31365/) 
--  Email: *(saniyamohammad0567@gmail.com)*  
--  [GitHub](https://github.com/MohammadSaniya5)  
+##  Technical Skills
+
+**Languages:** C, C++, Java, Python  
+**Frontend:** React, JavaScript, HTML5, CSS3  
+**Backend:** PHP, Flask, Node.js, REST APIs  
+**Databases:** MySQL, SQLite, SQL  
+**Data & BI:** Power BI, DAX, Excel  
+**Tools:** Git, GitHub, Docker, CI/CD, VS Code, Agile  
+**Core CS:** DSA, OOPS, DBMS, OS, CN  
 
 ---
-From [MohammadSaniya5](https://github.com/MohammadSaniya5)
 
- 
+##  Certifications
+- Power BI Virtual Internship — NSDC  
+- Web Development Fundamentals — IBM SkillsBuild  
+- Programming Essentials in C — Cisco  
+- Java Skill Certification — HackerRank  
+- Responsive Web Design — freeCodeCamp  
+- Python Programming — Udemy  
+
+---
+
+##  Interests
+Competitive Programming • UI/UX Design • Data Visualization • Hackathons  
+
+---
+
+##  Languages
+English • Hindi • Telugu • Urdu  
+
+---
+
+##  Let’s Connect
+
+ LinkedIn: https://www.linkedin.com/in/mohammad-saniya-859b31365/  
+ Email: saniyamohammad0567@gmail.com  
+ GitHub: https://github.com/MohammadSaniya5
