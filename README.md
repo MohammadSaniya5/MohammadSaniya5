@@ -9,13 +9,13 @@
 
 ## OBJECTIVE
 I’m a Computer Science undergraduate with hands-on experience in full-stack development and data analytics through IBM SkillsBuild and NSDC programs.  
-I enjoy building scalable backend systems, clean user interfaces, and data-driven products using React, Python, SQL, and REST APIs.
+I enjoy building scalable frontend & backend systems, clean user interfaces, and data-driven products using React, Python, SQL, and REST APIs.
 
 ---
 
 ##  About Me
 - Full-stack developer with internship experience at IBM SkillsBuild & NSDC  
-- Interested in backend systems, analytics & startups  
+- Interested in frontend & backend systems, analytics & startups  
 - Strong foundation in DSA and core CS subjects  
 - Passionate about hackathons, UI/UX & data visualization  
 
@@ -28,7 +28,7 @@ I enjoy building scalable backend systems, clean user interfaces, and data-drive
 - Improved accessibility and UI consistency  
 - Worked in Agile sprints with mentor feedback and code reviews  
 
-### Power BI Virtual Intern — YuvaIntern + NSDC
+### Power BI Virtual Intern — YuvaIntern + NSDC (Remote)
 - Designed dashboards using DAX, KPIs, slicers & filters  
 - Transformed raw datasets into business insights  
 - Supported reporting for operational decisions  
@@ -78,9 +78,9 @@ A responsive static quiz platform developed during my IBM SkillsBuild internship
 - Responsive layout for mobile & desktop  
 - Clean navigation & user-friendly design  
 - Deployed using GitHub Pages  
+Repo: [Online-Quiz-App](https://github.com/MohammadSaniya5/Online-Quiz-App)   
+Live Demo: [Live link](https://mohammadsaniya5.github.io/Online-Quiz-App/)
 
- Repo: [Online-Quiz-App](https://github.com/MohammadSaniya5/Online-Quiz-App)
- Live Demo: [(Live link)](https://mohammadsaniya5.github.io/Online-Quiz-App/)
 
 ### 🔹 Job Application Tracker — Flask Project  
 **Tech:** Python, Flask, MySQL, JavaScript  
@@ -93,8 +93,8 @@ A simple beginner-level full-stack project built when I was starting out with ba
 - Introductory CRUD operations  
 - Deployed on Render  
 
- Repo: [(Job-Application-Tracker) ](https://github.com/MohammadSaniya5/job-application-tracker) 
- Live Demo: [Live link](https://job-application-tracker-a219.onrender.com/)
+Repo: [Job-Application-Tracker](https://github.com/MohammadSaniya5/job-application-tracker)  
+Live Demo: [Live link](https://job-application-tracker-a219.onrender.com/)
 
 ### 🔹 InkVerse — Library Management Website (Frontend)  
 **Tech:** HTML, CSS, JavaScript  
@@ -107,8 +107,8 @@ A visually themed multi-page static website for a fictional library system, feat
 - Form-based borrowing flow (frontend only)  
 - Clean layout & styling  
 
- Repo: Coming soon  
- Live Demo: Coming Soon 
+Repo: Coming Soon   
+Live Demo: Coming Soon  
 
  ### 🔹 Personal Portfolio Website 
 **Tech:** HTML, CSS, JavaScript 
@@ -121,8 +121,8 @@ My personal portfolio site showcasing projects, skills, resume, and contact info
 - Clean responsive layout  
 - Focus on professional branding  
 
- Repo: Coming soon 
- Live Demo: Coming Soon
+Repo: Coming Soon  
+Live Demo: Coming Soon 
 
 
 ---
@@ -138,14 +138,7 @@ My personal portfolio site showcasing projects, skills, resume, and contact info
 **Core CS:** DSA, OOPS, DBMS, OS, CN  
 
 ---
-
-##  GitHub Stats
-
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSaniya5&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaniya5&layout=compact)
----
-
+ 
 
 ##  Professional Skills
 
