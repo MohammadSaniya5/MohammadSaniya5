@@ -178,7 +178,5 @@ English • Hindi • Telugu • Urdu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-saniya-859b31365/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MohammadSaniya5)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saniyamohammad0567@gmail.com)
-
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSaniya5&show_icons=true&theme=radical)
+ 
 
