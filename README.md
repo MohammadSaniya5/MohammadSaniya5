@@ -49,8 +49,8 @@ An AI-powered career platform where students take adaptive skill tests, analyze 
 - Internship & job matching logic  
 - Scalable API-based architecture  
 
- Repo: Coming Soon  
- Live Demo: Coming Soon
+ Repo: Deployment in progress  
+ Live Demo: Production release planned
 
 ### ⭐ Online EAMCET Examination Portal — College Deployment  
 **Tech:** PHP, MySQL, JavaScript  
@@ -64,8 +64,8 @@ A secure online examination platform built for my college and later adapted for 
 - Tab-switch detection & malpractice prevention  
 - Secure deployment within college network  
 
- Repo: Private (College Project)  
- Demo: Coming Soon (with dummy dataset)
+ Repo: Private repository (institutional project)  
+ Demo: Public demo version under preparation
 
 
 ### 🔹 Online Quiz Application — IBM SkillsBuild Internship  
@@ -107,8 +107,8 @@ A visually themed multi-page static website for a fictional library system, feat
 - Form-based borrowing flow (frontend only)  
 - Clean layout & styling  
 
-Repo: Coming Soon   
-Live Demo: Coming Soon  
+Repo: Final refinements in progress    
+Live Demo: Deployment in progress 
 
  ### 🔹 Personal Portfolio Website 
 **Tech:** HTML, CSS, JavaScript 
@@ -121,8 +121,8 @@ My personal portfolio site showcasing projects, skills, resume, and contact info
 - Clean responsive layout  
 - Focus on professional branding  
 
-Repo: Coming Soon  
-Live Demo: Coming Soon 
+Repo: Final refinements in progress  
+Live Demo: Deployment in progress 
 
 
 ---
@@ -178,4 +178,7 @@ English • Hindi • Telugu • Urdu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-saniya-859b31365/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MohammadSaniya5)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saniyamohammad0567@gmail.com)
+
+##  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadSaniya5&show_icons=true&theme=radical)
 
