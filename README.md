@@ -64,8 +64,8 @@ A secure online examination platform built for my college and later adapted for 
 - Tab-switch detection & malpractice prevention  
 - Secure deployment within college network  
 
- Repo: Private repository (institutional project)  
- Demo: Public demo version under preparation
+ Repo: [Online-EAMCET-Examination-Portal](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal )
+ Demo: [Link](https://online-eamcet-portal.rf.gd/)
 
 
 ### 🔹 Online Quiz Application — IBM SkillsBuild Internship  
@@ -107,8 +107,8 @@ A visually themed multi-page static website for a fictional library system, feat
 - Form-based borrowing flow (frontend only)  
 - Clean layout & styling  
 
-Repo: Final refinements in progress    
-Live Demo: Deployment in progress 
+Repo:  [InkVerse-Library-Website](https://github.com/MohammadSaniya5/InkVerse-Library-Website)   
+Live Demo: [Link](https://mohammadsaniya5.github.io/InkVerse-Library-Website/)
 
  ### 🔹 Personal Portfolio Website 
 **Tech:** HTML, CSS, JavaScript 
