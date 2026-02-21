@@ -64,8 +64,8 @@ A secure online examination platform built for my college and later adapted for 
 - Tab-switch detection & malpractice prevention  
 - Secure deployment within college network  
 
- Repo: [Online-EAMCET-Examination-Portal](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal )
- Demo: [Link](https://online-eamcet-portal.rf.gd/)
+Repo: [Online-EAMCET-Examination-Portal](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal )  
+Demo: [Link](https://online-eamcet-portal.rf.gd/)
 
 
 ### 🔹 Online Quiz Application — IBM SkillsBuild Internship  
