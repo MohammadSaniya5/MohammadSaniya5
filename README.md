@@ -79,7 +79,7 @@ A responsive static quiz platform developed during my IBM SkillsBuild internship
 - Clean navigation & user-friendly design  
 - Deployed using GitHub Pages  
 Repo: [Online-Quiz-App](https://github.com/MohammadSaniya5/Online-Quiz-App)   
-Live Demo: [Live link](https://mohammadsaniya5.github.io/Online-Quiz-App/)
+Live Demo: [Live link](https://online-quiz.com/)
 
 
 ### 🔹 Job Application Tracker — Flask Project  
