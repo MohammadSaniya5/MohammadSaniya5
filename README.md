@@ -68,6 +68,21 @@ Repo: [Online-EAMCET-Examination-Portal](https://github.com/MohammadSaniya5/Onli
 Demo: [Link](https://online-eamcet-portal.rf.gd/)
 
 
+ ### ⭐ Personal Portfolio Website 
+**Tech:** HTML, CSS, JavaScript 
+
+My personal portfolio site showcasing projects, skills, resume, and contact information — currently under development and planned for public deployment soon.
+
+**Key Highlights:**
+- Project showcase sections  
+- Resume & contact pages  
+- Clean responsive layout  
+- Focus on professional branding  
+
+Repo:[Portfolio-website](https://github.com/MohammadSaniya5/portfolio-website)  
+Live Demo:[Link](https://mohammadsaniya-portfolio.vercel.app/)
+
+
 ### 🔹 Online Quiz Application — IBM SkillsBuild Internship  
 **Tech:** HTML, CSS, JavaScript  
 
@@ -109,21 +124,6 @@ A visually themed multi-page static website for a fictional library system, feat
 
 Repo:  [InkVerse-Library-Website](https://github.com/MohammadSaniya5/InkVerse-Library-Website)   
 Live Demo: [Link](https://mohammadsaniya5.github.io/InkVerse-Library-Website/)
-
- ### 🔹 Personal Portfolio Website 
-**Tech:** HTML, CSS, JavaScript 
-
-My personal portfolio site showcasing projects, skills, resume, and contact information — currently under development and planned for public deployment soon.
-
-**Key Highlights:**
-- Project showcase sections  
-- Resume & contact pages  
-- Clean responsive layout  
-- Focus on professional branding  
-
-Repo: Final refinements in progress  
-Live Demo: Deployment in progress 
-
 
 ---
 
