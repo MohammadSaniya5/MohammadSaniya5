@@ -1,6 +1,6 @@
 #  Hi, I'm Mohammad Saniya
 
- B.Tech CSE @ Vignan Institute of Technology and Science (2023–2027) | CGPA: 9.3  
+ B.Tech CSE @ Vignan Institute of Technology and Science (2023–2027) | CGPA: 9.38  
  Full-Stack Developer | Data Analytics Enthusiast  
  Hyderabad, India
  
