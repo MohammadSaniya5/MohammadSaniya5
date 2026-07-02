@@ -67,6 +67,33 @@ A secure online examination platform built for my college and later adapted for 
 Repo: [Online-EAMCET-Examination-Portal](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal )  
 Demo: [Link](https://online-eamcet-portal.rf.gd/)
 
+### ⭐ NotifyHub — Smart Campus Announcement Platform  
+**Tech:** Next.js 14, TypeScript, Neon PostgreSQL  
+
+A real-time campus announcement platform built for college use, featuring full CRUD functionality through custom API routes and an admin dashboard for managing announcements and events.
+
+**Key Highlights:**
+- Real-time announcement system with admin dashboard for events & updates  
+- Full CRUD functionality through custom API routes  
+- Git-based version control with Vercel CI/CD for automated deployment  
+- Presented live to the DRDO team and received appreciation  
+
+Repo: [NotifyHub](https://github.com/MohammadSaniya5/notifyhub)  
+Live Demo: [Link](https://notifyhub-campus.vercel.app)
+
+### ⭐ NEXORA — Academic Resource Portal  
+**Tech:** Next.js, TypeScript, Framer Motion, Vercel KV, Vercel Blob  
+
+An academic resource portal where faculty upload files through an admin panel and content appears instantly on the student portal, built with a fully serverless architecture.
+
+**Key Highlights:**
+- Faculty admin panel with instant file publishing to student portal  
+- Animated UI — magnetic buttons, reactive orbs, custom SVG logo/favicon  
+- Serverless architecture on Vercel with GitHub CI/CD and zero-downtime deployment  
+
+Repo: [NEXORA](https://github.com/MohammadSaniya5/nexora)  
+Live Demo: [Link](https://nexora-noteshub.vercel.app)
+
 
  ### ⭐ Personal Portfolio Website 
 **Tech:** HTML, CSS, JavaScript 
