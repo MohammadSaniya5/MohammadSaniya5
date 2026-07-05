@@ -81,19 +81,6 @@ A real-time campus announcement platform built for college use, featuring full C
 Repo: [NotifyHub](https://github.com/MohammadSaniya5/notifyhub)  
 Live Demo: [Link](https://notifyhub-campus.vercel.app)
 
-### ⭐ NEXORA — Academic Resource Portal  
-**Tech:** Next.js, TypeScript, Framer Motion, Vercel KV, Vercel Blob  
-
-An academic resource portal where faculty upload files through an admin panel and content appears instantly on the student portal, built with a fully serverless architecture.
-
-**Key Highlights:**
-- Faculty admin panel with instant file publishing to student portal  
-- Animated UI — magnetic buttons, reactive orbs, custom SVG logo/favicon  
-- Serverless architecture on Vercel with GitHub CI/CD and zero-downtime deployment  
-
-Repo: [NEXORA](https://github.com/MohammadSaniya5/nexora)  
-Live Demo: [Link](https://nexora-noteshub.vercel.app)
-
 
  ### ⭐ Personal Portfolio Website 
 **Tech:** HTML, CSS, JavaScript 
