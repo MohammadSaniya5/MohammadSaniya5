@@ -14,23 +14,23 @@
 <tr>
 <td>
 
-🎓 **Education** — B.Tech CSE @ Vignan Institute (2023–2027) | CGPA: 9.38
+ **Education** — B.Tech CSE @ Vignan Institute (2023–2027) | CGPA: 9.38
 
-💼 **Currently** — Software Developer Intern @ MakeRoot Private Limited
+ **Currently** — Software Developer Intern @ MakeRoot Private Limited
 
-💻 **Specialization** — Full-Stack Development with React & Django
+ **Specialization** — Full-Stack Development with React & Django
 
-🏆 **Achievement** — National Hackathon Winner — VHack 2.0 FinTech Domain
+ **Achievement** — National Hackathon Winner — VHack 2.0 FinTech Domain
 
-🌍 **Competitive** — TCS CodeVita Global Rank 13,167
+ **Competitive** — TCS CodeVita Global Rank 13,167
 
-✅ **Certified** — ServiceNow CSA & CAD | IBM SkillsBuild
+ **Certified** — ServiceNow CSA & CAD | IBM SkillsBuild
 
-📚 **Impact** — Built real projects serving 500+ students
+ **Impact** — Built real projects serving 500+ students
 
-🚀 **Passion** — EdTech, Problem Solving & Building Impactful Software
+ **Passion** — EdTech, Problem Solving & Building Impactful Software
 
-📍 **Location** — Hyderabad, India
+ **Location** — Hyderabad, India
 
 </td>
 </tr>
@@ -38,36 +38,36 @@
 
 ---
 
-## 🚀 Experience
+##  Experience
 
-### 💼 Software Developer Intern — MakeRoot Private Limited
+###  Software Developer Intern — MakeRoot Private Limited
 `Aug 2026 – Feb 2027` | 
 > Building full-stack EdTech solutions using React and Django. Working in collaborative sprints with weekly reviews and mentor guidance.
 
-### 💼 Frontend Web Development Intern — IBM SkillsBuild
+###  Frontend Web Development Intern — IBM SkillsBuild
 `Aug 2025 – Sep 2025` | 🌐 Remote
 > Built responsive web interfaces, worked in Agile sprints, and optimized frontend performance across multiple browsers.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 | Achievement | Details |
 |-------------|---------|
-| 🥇 National Hackathon Winner | VHack 2.0 — FinTech & Cybersecurity Domain |
-| 🌍 TCS CodeVita Global Rank | Rank 13,167 among lakhs of participants worldwide |
-| ✅ ServiceNow CSA Certified | Certified System Administrator — ServiceNow |
-| ✅ ServiceNow CAD Certified | Certified Application Developer — ServiceNow |
+|  National Hackathon Winner | VHack 2.0 — FinTech & Cybersecurity Domain |
+|  TCS CodeVita Global Rank | Rank 13,167 among lakhs of participants worldwide |
+|  ServiceNow CSA Certified | Certified System Administrator — ServiceNow |
+|  ServiceNow CAD Certified | Certified Application Developer — ServiceNow |
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Skill Intelligence Platform
+###  AI Skill Intelligence Platform
 **React + Vite • Django • OAuth • REST APIs**
 
 AI-powered platform where students assess skills and get personalized job & internship recommendations.
@@ -80,7 +80,7 @@ AI-powered platform where students assess skills and get personalized job & inte
 </td>
 <td width="50%">
 
-### 📝 Online EAMCET Examination Portal
+###  Online EAMCET Examination Portal
 **PHP • MySQL • JavaScript** | [Live](https://online-eamcet-portal.rf.gd/) | [GitHub](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal)
 
 Secure exam portal deployed for 500+ students at college level.
@@ -95,19 +95,18 @@ Secure exam portal deployed for 500+ students at college level.
 <tr>
 <td width="50%">
 
-### 📢 NotifyHub — Campus Announcement Platform
+### NotifyHub — Campus Announcement Platform
 **Next.js 14 • TypeScript • Neon PostgreSQL** | [Live](https://notifyhub-campus.vercel.app) | [GitHub](https://github.com/MohammadSaniya5/notifyhub)
 
 Real-time campus announcement system presented to DRDO team.
 
 - Full CRUD with admin dashboard
-- Vercel CI/CD automated deployment
-- Appreciated by DRDO team ⭐
+- Vercel CI/CD automated deployment 
 
 </td>
 <td width="50%">
 
-### 🏦 Financial Anomaly Detection Platform
+###  Financial Anomaly Detection Platform
 **Python • AI/ML • Real-time Analytics**
 
 AI-driven fraud detection system built in 24 hours at VHack 2.0 National Hackathon — **Won First Prize 🏆**
@@ -122,7 +121,7 @@ AI-driven fraud detection system built in 24 hours at VHack 2.0 National Hackath
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -143,22 +142,22 @@ AI-driven fraud detection system built in 24 hours at VHack 2.0 National Hackath
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 | Certification | Issuer |
 |--------------|--------|
-| ✅ Certified System Administrator (CSA) | ServiceNow |
-| ✅ Certified Application Developer (CAD) | ServiceNow |
-| ✅ Web Development Fundamentals | IBM SkillsBuild |
-| ✅ Java Skill Certification | HackerRank |
-| ✅ Responsive Web Design | freeCodeCamp |
-| ✅ Programming Essentials in C | Cisco |
-| ✅ Python Programming | Udemy |
+|  Certified System Administrator (CSA) | ServiceNow |
+|  Certified Application Developer (CAD) | ServiceNow |
+|  Web Development Fundamentals | IBM SkillsBuild |
+|  Java Skill Certification | HackerRank |
+|  Responsive Web Design | freeCodeCamp |
+|  Programming Essentials in C | Cisco |
+|  Python Programming | Udemy |
 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
