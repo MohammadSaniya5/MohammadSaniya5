@@ -1,196 +1,180 @@
-#  Hi, I'm Mohammad Saniya
+<div align="center">
 
- B.Tech CSE @ Vignan Institute of Technology and Science (2023–2027) | CGPA: 9.38  
- Full-Stack Developer | Data Analytics Enthusiast  
- Hyderabad, India
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Saniya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20Intern%20%40%20MakeRoot%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16"/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=React+%2B+Django+Full-Stack+Developer;ServiceNow+CSA+%26+CAD+Certified;National+Hackathon+Winner+%F0%9F%8F%86;TCS+CodeVita+Global+Rank+Holder;Building+Real+World+EdTech+Solutions)](https://git.io/typing-svg)
 
-## OBJECTIVE
-I’m a Computer Science undergraduate with hands-on experience in full-stack development and data analytics through IBM SkillsBuild and NSDC programs.  
-I enjoy building scalable frontend & backend systems, clean user interfaces, and data-driven products using React, Python, SQL, and REST APIs.
+</div>
 
 ---
 
-##  About Me
-- Full-stack developer with internship experience at IBM SkillsBuild & NSDC  
-- Interested in frontend & backend systems, analytics & startups  
-- Strong foundation in DSA and core CS subjects  
-- Passionate about hackathons, UI/UX & data visualization  
+## 👩‍💻 About Me
+
+```python
+class MohammadSaniya:
+    def __init__(self):
+        self.name = "Mohammad Saniya"
+        self.role = "Software Developer Intern @ MakeRoot"
+        self.education = "B.Tech CSE @ Vignan Institute (2023–2027) | CGPA: 9.38"
+        self.location = "Hyderabad, India"
+        self.stack = ["React", "Django", "Python", "REST APIs", "ServiceNow"]
+        self.achievements = [
+            "🏆 National Hackathon Winner — VHack 2.0",
+            "🌍 TCS CodeVita Global Rank 13,167",
+            "✅ ServiceNow CSA + CAD Certified",
+            "📚 Built EAMCET Portal for 500+ students"
+        ]
+    
+    def current_focus(self):
+        return "Building EdTech solutions at MakeRoot 🚀"
+```
 
 ---
 
-##  Experience
+## 🚀 Experience
 
-### Frontend Web Development Intern — IBM SkillsBuild (Remote)
-- Built responsive interfaces using HTML, CSS & JavaScript  
-- Improved accessibility and UI consistency  
-- Worked in Agile sprints with mentor feedback and code reviews  
+### 💼 Software Developer Intern — MakeRoot Private Limited
+`Aug 2026 – Feb 2027` | 🏠 Remote
+> Building full-stack EdTech solutions using React and Django. Working in collaborative sprints with weekly reviews and mentor guidance.
 
-### Power BI Virtual Intern — YuvaIntern + NSDC (Remote)
-- Designed dashboards using DAX, KPIs, slicers & filters  
-- Transformed raw datasets into business insights  
-- Supported reporting for operational decisions  
+### 💼 Frontend Web Development Intern — IBM SkillsBuild
+`Aug 2025 – Sep 2025` | 🌐 Remote
+> Built responsive web interfaces, worked in Agile sprints, and optimized frontend performance across multiple browsers.
 
 ---
 
-##  Projects
+## 🏆 Achievements
 
-### ⭐ AI Skill Intelligence Platform — Flagship Project  
-**Tech:** React, Django, OAuth, REST APIs  
-
-An AI-powered career platform where students take adaptive skill tests, analyze strengths & gaps, and receive personalized learning paths along with internship and job recommendations.
-
-**Key Highlights:**
-- Full-stack assessment engine with role-based dashboards  
-- OAuth login & secure authentication flow  
-- AI-driven skill analysis & recommendations  
-- Internship & job matching logic  
-- Scalable API-based architecture  
-
- Repo: Deployment in progress  
- Live Demo: Production release planned
-
-### ⭐ Online EAMCET Examination Portal — College Deployment  
-**Tech:** PHP, MySQL, JavaScript  
-
-A secure online examination platform built for my college and later adapted for university use, supporting large-scale student testing with privacy controls.
-
-**Key Highlights:**
-- Conducted exams for 500+ students in real scenarios  
-- Timer-based tests with random question sets  
-- Admin dashboards for monitoring sessions  
-- Tab-switch detection & malpractice prevention  
-- Secure deployment within college network  
-
-Repo: [Online-EAMCET-Examination-Portal](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal )  
-Demo: [Link](https://online-eamcet-portal.rf.gd/)
-
-### ⭐ NotifyHub — Smart Campus Announcement Platform  
-**Tech:** Next.js 14, TypeScript, Neon PostgreSQL  
-
-A real-time campus announcement platform built for college use, featuring full CRUD functionality through custom API routes and an admin dashboard for managing announcements and events.
-
-**Key Highlights:**
-- Real-time announcement system with admin dashboard for events & updates  
-- Full CRUD functionality through custom API routes  
-- Git-based version control with Vercel CI/CD for automated deployment  
-- Presented live to the DRDO team and received appreciation  
-
-Repo: [NotifyHub](https://github.com/MohammadSaniya5/notifyhub)  
-Live Demo: [Link](https://notifyhub-campus.vercel.app)
-
-
- ### ⭐ Personal Portfolio Website 
-**Tech:** HTML, CSS, JavaScript 
-
-My personal portfolio site showcasing projects, skills, resume, and contact information — currently under development and planned for public deployment soon.
-
-**Key Highlights:**
-- Project showcase sections  
-- Resume & contact pages  
-- Clean responsive layout  
-- Focus on professional branding  
-
-Repo:[Portfolio-website](https://github.com/MohammadSaniya5/portfolio-website)  
-Live Demo:[Link](https://mohammadsaniya-portfolio.vercel.app/)
-
-
-### 🔹 Online Quiz Application — IBM SkillsBuild Internship  
-**Tech:** HTML, CSS, JavaScript  
-
-A responsive static quiz platform developed during my IBM SkillsBuild internship, focused on clean UI, usability, and real-time scoring.
-
-**Key Highlights:**
-- Multiple subject quizzes with instant results  
-- Responsive layout for mobile & desktop  
-- Clean navigation & user-friendly design  
-- Deployed using GitHub Pages  
-Repo: [Online-Quiz-App](https://github.com/MohammadSaniya5/Online-Quiz-App)   
-Live Demo: [Live link](https://online-quiz.com/)
-
-
-### 🔹 Job Application Tracker — Flask Project  
-**Tech:** Python, Flask, MySQL, JavaScript  
-
-A simple beginner-level full-stack project built when I was starting out with backend development — allows users to enter and view job application details in a structured way.
-
-**Key Highlights:**
-- Basic form-based data entry & display  
-- Flask backend with database integration  
-- Introductory CRUD operations  
-- Deployed on Render  
-
-Repo: [Job-Application-Tracker](https://github.com/MohammadSaniya5/job-application-tracker)  
-Live Demo: [Live link](https://job-application-tracker-a219.onrender.com/)
-
-### 🔹 InkVerse — Library Management Website (Frontend)  
-**Tech:** HTML, CSS, JavaScript  
-
-A visually themed multi-page static website for a fictional library system, featuring a universe-style background design, book listings, borrowing forms, and contact pages.
-
-**Key Highlights:**
-- Multi-page navigation (Home, Library, Borrow, Contact)  
-- Creative UI with themed backgrounds  
-- Form-based borrowing flow (frontend only)  
-- Clean layout & styling  
-
-Repo:  [InkVerse-Library-Website](https://github.com/MohammadSaniya5/InkVerse-Library-Website)   
-Live Demo: [Link](https://mohammadsaniya5.github.io/InkVerse-Library-Website/)
+| Achievement | Details |
+|-------------|---------|
+| 🥇 National Hackathon Winner | VHack 2.0 — FinTech & Cybersecurity Domain |
+| 🌍 TCS CodeVita Global Rank | Rank 13,167 among lakhs of participants worldwide |
+| ✅ ServiceNow CSA Certified | Certified System Administrator — ServiceNow |
+| ✅ ServiceNow CAD Certified | Certified Application Developer — ServiceNow |
 
 ---
 
-##  Technical Skills
+## ⭐ Featured Projects
 
-**Languages:** C, C++, Java, Python  
-**Frontend:** React, JavaScript, HTML5, CSS3  
-**Backend:** PHP, Flask, Node.js, REST APIs  
-**Databases:** MySQL, SQLite, SQL  
-**Data & BI:** Power BI, DAX, Excel  
-**Tools:** Git, GitHub, Docker, CI/CD, VS Code, Agile  
-**Core CS:** DSA, OOPS, DBMS, OS, CN  
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Skill Intelligence Platform
+**React + Vite • Django • OAuth • REST APIs**
+
+AI-powered platform where students assess skills and get personalized job & internship recommendations.
+
+- Role-based dashboards
+- Google OAuth authentication  
+- Scalable REST API architecture
+- Intelligent recommendation engine
+
+</td>
+<td width="50%">
+
+### 📝 Online EAMCET Examination Portal
+**PHP • MySQL • JavaScript** | [Live](https://online-eamcet-portal.rf.gd/) | [GitHub](https://github.com/MohammadSaniya5/Online-EAMCET-Examination-Portal)
+
+Secure exam portal deployed for 500+ students at college level.
+
+- Tab-switch malpractice detection
+- Randomized question delivery
+- Admin monitoring dashboard
+- Automated result processing
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📢 NotifyHub — Campus Announcement Platform
+**Next.js 14 • TypeScript • Neon PostgreSQL** | [Live](https://notifyhub-campus.vercel.app) | [GitHub](https://github.com/MohammadSaniya5/notifyhub)
+
+Real-time campus announcement system presented to DRDO team.
+
+- Full CRUD with admin dashboard
+- Vercel CI/CD automated deployment
+- Appreciated by DRDO team ⭐
+
+</td>
+<td width="50%">
+
+### 🏦 Financial Anomaly Detection Platform
+**Python • AI/ML • Real-time Analytics**
+
+AI-driven fraud detection system built in 24 hours at VHack 2.0 National Hackathon — **Won First Prize 🏆**
+
+- Real-time risk monitoring
+- AI-based anomaly detection
+- Led 3-member team to victory
+
+</td>
+</tr>
+</table>
 
 ---
- 
 
-##  Professional Skills
+## 🛠️ Tech Stack
 
-- Problem Solving & Analytical Thinking  
-- Team Collaboration & Agile Development  
-- Communication & Technical Documentation  
-- Time Management & Task Ownership  
-- Adaptability & Fast Learning  
-- Product-Oriented Mindset  
-- Debugging & Code Review Practices  
+<div align="center">
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C65E?style=for-the-badge&logo=servicenow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-##  Certifications
-- Power BI Virtual Internship — NSDC  
-- Web Development Fundamentals — IBM SkillsBuild  
-- Programming Essentials in C — Cisco  
-- Java Skill Certification — HackerRank  
-- Responsive Web Design — freeCodeCamp  
-- Python Programming — Udemy  
+</div>
 
 ---
 
-##  Interests
-Competitive Programming • UI/UX Design • Data Visualization • Hackathons  
+## 📜 Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| ✅ Certified System Administrator (CSA) | ServiceNow |
+| ✅ Certified Application Developer (CAD) | ServiceNow |
+| ✅ Web Development Fundamentals | IBM SkillsBuild |
+| ✅ Java Skill Certification | HackerRank |
+| ✅ Responsive Web Design | freeCodeCamp |
+| ✅ Programming Essentials in C | Cisco |
+| ✅ Python Programming | Udemy |
 
 ---
 
-##  Languages
-English • Hindi • Telugu • Urdu  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSaniya5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaniya5&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
-##  Let’s Connect
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-saniya-859b31365/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MohammadSaniya5)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saniyamohammad0567@gmail.com)
- 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saniya-859b31365/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadSaniya5)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniyamohammad0567@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadsaniya-portfolio.vercel.app/)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
