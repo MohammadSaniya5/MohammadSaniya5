@@ -8,33 +8,40 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-```python
-class MohammadSaniya:
-    def __init__(self):
-        self.name = "Mohammad Saniya"
-        self.role = "Software Developer Intern @ MakeRoot"
-        self.education = "B.Tech CSE @ Vignan Institute (2023–2027) | CGPA: 9.38"
-        self.location = "Hyderabad, India"
-        self.stack = ["React", "Django", "Python", "REST APIs", "ServiceNow"]
-        self.achievements = [
-            "🏆 National Hackathon Winner — VHack 2.0",
-            "🌍 TCS CodeVita Global Rank 13,167",
-            "✅ ServiceNow CSA + CAD Certified",
-            "📚 Built EAMCET Portal for 500+ students"
-        ]
-    
-    def current_focus(self):
-        return "Building EdTech solutions at MakeRoot 🚀"
-```
+<table>
+<tr>
+<td>
+
+🎓 **Education** — B.Tech CSE @ Vignan Institute (2023–2027) | CGPA: 9.38
+
+💼 **Currently** — Software Developer Intern @ MakeRoot Private Limited
+
+💻 **Specialization** — Full-Stack Development with React & Django
+
+🏆 **Achievement** — National Hackathon Winner — VHack 2.0 FinTech Domain
+
+🌍 **Competitive** — TCS CodeVita Global Rank 13,167
+
+✅ **Certified** — ServiceNow CSA & CAD | IBM SkillsBuild
+
+📚 **Impact** — Built real projects serving 500+ students
+
+🚀 **Passion** — EdTech, Problem Solving & Building Impactful Software
+
+📍 **Location** — Hyderabad, India
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Experience
 
 ### 💼 Software Developer Intern — MakeRoot Private Limited
-`Aug 2026 – Feb 2027` | 🏠 Remote
+`Aug 2026 – Feb 2027` | 
 > Building full-stack EdTech solutions using React and Django. Working in collaborative sprints with weekly reviews and mentor guidance.
 
 ### 💼 Frontend Web Development Intern — IBM SkillsBuild
@@ -130,8 +137,7 @@ AI-driven fraud detection system built in 24 hours at VHack 2.0 National Hackath
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C65E?style=for-the-badge&logo=servicenow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00C65E?style=for-the-badge&logo=servicenow&logoColor=white) 
 
 </div>
 
@@ -149,16 +155,6 @@ AI-driven fraud detection system built in 24 hours at VHack 2.0 National Hackath
 | ✅ Programming Essentials in C | Cisco |
 | ✅ Python Programming | Udemy |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadSaniya5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaniya5&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 
 ---
 
